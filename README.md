@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h1 align="center">Hi😁 I'm Divyanshu Upreti</h1>
+<h1 align="center">Hi, I'm Divyanshu Upreti 👋</h1>
 <h3 align="center"> My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
-  <img align="left" width = "300" height = "300" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
+  <img align="left" width = "400" height = "400" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
   
   ```javascript
   const divyanshu = {
