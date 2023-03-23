@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h1 align="center">Hi <img style = "background-color: black" height = 40 src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJlNGUwNWMwODA5MDczOTA5NGE5ZGFiMGU4MjljMDU2MzVjYTQyZiZjdD1n/I66oYYbyTfKbeMxjgD/giphy.gif">, I'm Divyanshu Upreti</h1>
+<h1 align="center">Hi, I'm Divyanshu Upreti <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="50"></h1>
 <h3 align="center">My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
   <img align="center" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
