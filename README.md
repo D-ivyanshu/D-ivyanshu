@@ -5,9 +5,19 @@
 
 - ✔ I’m currently working on [BinaryBlogs](https://binaryblogs.cyclic.app/)
 
-- 😎 Me [Portfolio](https://d-ivyanshu.github.io/divyanshu/)
+- 😎 Website [Portfolio](https://d-ivyanshu.github.io/divyanshu/)
 
 - ✉ How to reach me **divyanshu9upreti@gmail.com**
+
+<h2>
+  Let's Connect and have a Chat!💬
+</h2>
+<a href="https://d-ivyanshu.github.io/divyanshu/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/divyanshu-upreti-0796381ba/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
