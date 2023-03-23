@@ -10,7 +10,7 @@
   ```javascript
   const divyanshu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "Java"],
+    code: ["C++", "Javascript", "Java", "Python"],
     askMeAbout: ["web dev", "dsa"],
     technologies: {
         backEnd: {
@@ -22,11 +22,7 @@
 };
 ```
 
-
-
- ---
-  
-  
+ 
 <h2>
   Coding Profiles
 </h2>
