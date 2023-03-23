@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">Hi <img style = "background-color: black" height = 40 src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJlNGUwNWMwODA5MDczOTA5NGE5ZGFiMGU4MjljMDU2MzVjYTQyZiZjdD1n/I66oYYbyTfKbeMxjgD/giphy.gif">, I'm Divyanshu Upreti</h1>
 <h3 align="center">My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
-  <img align = "center" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
+  <img align="center" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
 
 
  ---
@@ -20,6 +20,7 @@
 <a href="https://www.codechef.com/users/o_r_z" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="o_r_z" height="50" width="40" /></a>
 <a href="https://www.hackerearth.com/@divyanshu9upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="laz1upret1" height="50" width="40" /></a>
 </p>
+
  ---
 
 <h2 align="left">Languages and Tools  </h2>
