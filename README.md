@@ -1,26 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Upreti</h1>
 <h3 align="center">My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
+<p align="center">
+  <img height="50" src= "https://drive.google.com/file/d/1WYD24D-oSkhP15i5YahEpZJZbCFn1iiA/view">
+</p> 
 
-- I’m currently working on [BinaryBlogs ✔](https://binaryblogs.cyclic.app/)
 
--  My Website :  [😎](https://d-ivyanshu.github.io/divyanshu/)
-
-
-<h2>
-  Let's Connect and have a Chat!💬
-</h2>
-<p align = "left">
-<a href="https://d-ivyanshu.github.io/divyanshu/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/divyanshu-upreti-0796381ba/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>  
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
 
 <h2>
   Coding Profiles
@@ -33,8 +18,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,nodejs,express,git,heroku,mongodb,mysql,postman,py,vscode" />
   </a>
+  
+  <h2>
+  Let's Connect and have a Chat!💬
+</h2>
+<p align = "left">
+<a href="https://d-ivyanshu.github.io/divyanshu/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/divyanshu-upreti-0796381ba/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>  
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 </p>
