@@ -5,7 +5,24 @@
 <h1 align="center">Hi, I'm Divyanshu Upreti <img src="https://i.gifer.com/7cHU.gif" width="50"></h1>
 <h3 align="center">My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
-  <img align="center" width = "800" height = "800" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
+  <img align="left" width = "200" height = "200" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMWM2ZTE2NGY3ODE2MGRmOTc4MjdhZDc2ZTJjY2U0ZmUxNjRkYSZjdD1z/x8nLqbF3XbPe4LehIE/giphy.gif">
+  
+  ```javascript
+  const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "dsa"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    currentFocus: "Make some amazing projects", 
+};
+```
+
 
 
  ---
