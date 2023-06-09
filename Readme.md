@@ -4,7 +4,7 @@
 </p>
 <h3 align="center"> My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
-  <img align="left" width = "400" height = "400" src= "![cat](https://github.com/D-ivyanshu/D-ivyanshu/assets/93874215/130504c2-5914-4ece-adf2-c9e447521d68)">
+  <img align="left" width = "400" height = "400" src= "https://github.com/D-ivyanshu/D-ivyanshu/assets/93874215/130504c2-5914-4ece-adf2-c9e447521d68">
   
   ```javascript
   const divyanshu = {
