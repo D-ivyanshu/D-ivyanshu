@@ -14,7 +14,7 @@
     technologies: {
         frontEnd: {
             js: ["React"],
-        }
+        },
         backEnd: {
             js: ["Node", "Express"],
         },
