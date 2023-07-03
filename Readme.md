@@ -12,6 +12,9 @@
     code: ["C++", "Javascript", "Java", "Python"],
     askMeAbout: ["web dev", "dsa"],
     technologies: {
+        frontEnd: {
+            js: ["React"],
+        }
         backEnd: {
             js: ["Node", "Express"],
         },
