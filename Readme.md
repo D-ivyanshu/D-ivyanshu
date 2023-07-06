@@ -35,12 +35,7 @@
 <a href="https://www.hackerearth.com/@divyanshu9upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="laz1upret1" height="50" width="40" /></a>
 </p>
 
- ---
 
-<h2 align="left">Languages and Tools  </h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,nodejs,express,git,mongodb,mysql,postman,py,vscode,react" />
-  </a>
   
   ---
   
