@@ -4,10 +4,11 @@
 </p>
 <h3 align="center"> My passion lies in problem-solving and I am currently engaged in learning full-stack development.</h3>
 
-  <img align="left" width = "250" height = "250" src= "https://github.com/D-ivyanshu/D-ivyanshu/assets/93874215/130504c2-5914-4ece-adf2-c9e447521d68">
+  <img align="left" width = "250" height = "250" src= "https://github.com/user-attachments/assets/ce205a49-63e6-4528-94cb-7c0cf65ed36a">
   
   ```javascript
   const divyanshu = {
+
     pronouns: "He" | "Him",
     code: ["C++", "Javascript", "Java", "Python"],
     askMeAbout: ["web dev", "dsa"],
